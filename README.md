@@ -1,5 +1,7 @@
 # Hacktoberfest_2021
 
+<img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" style="width: 40%;">
+
 If you looking for your first contribution, we are here to help. Just create a simple arithmetic program using any language you like in our Arithmetic folder which will be counted as your first PR
 
 Step By Step:
