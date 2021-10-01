@@ -4,7 +4,7 @@ If you looking for your first contribution, we are here to help. Just create a s
 
 Step By Step:
 - star and fork this repo
-- build your simple arithmetic program using any language you like in our Arithmetic folder
+- build your simple arithmetic program using any language you like in our Arithmetic folder and give name your simple arithmetic program with your username
 - add your name in CONTRIBUTING.md
 - pull request
 - done
