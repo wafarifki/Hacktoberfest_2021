@@ -8,3 +8,4 @@ Don't forget put your name
 - Pramdhanni Dwi Putra Bintang
 - Munawir
 - Aditya Muhamad Putra P.
+- Ary Setya P.
