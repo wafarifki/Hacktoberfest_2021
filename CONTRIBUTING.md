@@ -16,11 +16,28 @@ Don't forget put your name
 - Hasan Basrie
 - Muhammad Hilmy AL Jauzy
 - Syafiq Rizky Fauzi
+
+- krishnaditya
 - adrenal29 Mohit
 - Mayank Kumar
 - Suyog Vinod Chaudhari
 - Chayan Debbarma
 - Andika Tulus Pangestu
+
+- Saif Kholid
+
 - Haikel
 - vinz15
+
 - Denny Sinaga
+
+- Muhammad Nur Faqiih
+
+
+- Aneesh
+- Md. Almas Ali
+- Romadhon Aji
+
+
+
+
