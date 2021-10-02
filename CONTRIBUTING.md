@@ -11,4 +11,6 @@ Don't forget put your name
 - Rizki Maulana Citra
 - Aditya Muhamad Putra P.
 
+- Hasan Basrie
+
 - Syafiq Rizky Fauzi
