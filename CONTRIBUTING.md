@@ -7,5 +7,15 @@ Don't forget put your name
 
 - Pramdhanni Dwi Putra Bintang
 - Munawir
+
+- Rizki Maulana Citra
 - Aditya Muhamad Putra P.
+
 - Lie
+
+
+- Ary Setya P.
+
+- Hasan Basrie
+
+- Syafiq Rizky Fauzi
