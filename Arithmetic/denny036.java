@@ -4,5 +4,6 @@ class denny036 {
         System.out.println("1st Random Number: " + Math.random());
         System.out.println("2nd Random Number: " + Math.random());
         System.out.println("3rd Random Number: " + Math.random());
+        System.out.println("Penjumlahan 3 + 5 : " + 3+5);
     }
 }
