@@ -25,7 +25,11 @@ Don't forget put your name
 - Andika Tulus Pangestu
 - Haikel
 - vinz15
-
+- yash hax
+- Denny Sinaga
+- Muhammad Nur Faqiih
+- Saif Kholid
 - Aneesh
 - Md. Almas Ali
-
+- Romadhon Aji
+- ibnusyawall
