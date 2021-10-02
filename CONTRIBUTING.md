@@ -29,6 +29,9 @@ Don't forget put your name
 - Haikel
 - vinz15
 
+- yash hax
+
+
 - Denny Sinaga
 
 - Muhammad Nur Faqiih
@@ -38,6 +41,7 @@ Don't forget put your name
 - Md. Almas Ali
 - Romadhon Aji
 - Sai Varshith
+
 
 
 
