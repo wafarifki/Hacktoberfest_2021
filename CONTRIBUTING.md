@@ -46,4 +46,6 @@ Don't forget put your name
 - Arif Febrianto
 - Hasyim
 - JyothiJayaram
+- Neno Arisma
+- JyothiJayaram
 - Muhammad Thaariq Prasetia
