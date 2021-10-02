@@ -23,8 +23,12 @@ Don't forget put your name
 - Suyog Vinod Chaudhari
 - Chayan Debbarma
 - Andika Tulus Pangestu
+
+- Saif Kholid
+
 - Haikel
 - vinz15
+
 - yash hax
 - Denny Sinaga
 - Muhammad Nur Faqiih
@@ -33,3 +37,22 @@ Don't forget put your name
 - Md. Almas Ali
 - Romadhon Aji
 - ibnusyawall
+
+
+- yash hax
+
+
+- Denny Sinaga
+
+- Muhammad Nur Faqiih
+
+
+- Aneesh
+- Md. Almas Ali
+- Romadhon Aji
+- Sai Varshith
+
+
+
+
+
