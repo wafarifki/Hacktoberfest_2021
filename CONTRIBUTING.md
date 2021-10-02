@@ -29,12 +29,15 @@ Don't forget put your name
 - Haikel
 - vinz15
 
+- Denny Sinaga
+
 - Muhammad Nur Faqiih
 
 
 - Aneesh
 - Md. Almas Ali
 - Romadhon Aji
+
 
 
 
