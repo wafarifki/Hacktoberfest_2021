@@ -33,6 +33,7 @@ Don't forget put your name
 - Md. Almas Ali
 - Romadhon Aji
 - ibnusyawall
+- Sairantri Pathak
 - yash hax
 - Denny Sinaga
 - Muhammad Nur Faqiih
@@ -41,7 +42,10 @@ Don't forget put your name
 - Romadhon Aji
 - Sai Varshith
 - Faiz Nurullah
+- Muhammad Thaariq Prasetia
+- Arif Febrianto
 - Hasyim
--JyothiJayaram
+- JyothiJayaram
 - Neno Arisma
+- JyothiJayaram
 - Muhammad Thaariq Prasetia
