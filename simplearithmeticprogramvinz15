@@ -1,0 +1,21 @@
+class BelajarJava {
+  public static void main(String args[]){
+    
+  int a, b, c, d, e, f;
+ 
+  a = 8 + 4;
+  b = 9 - 2;
+  c = 2 * 3;
+  d = 10 + 3 - 7 * 4;
+  e = ( ( 10 +3 ) -7) * 4;
+  f = -79;
+ 
+  System.out.println("Isi variabel a: " + a); 
+  System.out.println("Isi variabel b: " + b); 
+  System.out.println("Isi variabel c: " + c); 
+  System.out.println("Isi variabel d: " + d); 
+  System.out.println("Isi variabel e: " + e); 
+  System.out.println("Isi variabel f: " + f); 
+    
+  }
+}
