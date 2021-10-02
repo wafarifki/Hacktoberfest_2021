@@ -10,3 +10,5 @@ Don't forget put your name
 
 - Rizki Maulana Citra
 - Aditya Muhamad Putra P.
+
+- Syafiq Rizky Fauzi
