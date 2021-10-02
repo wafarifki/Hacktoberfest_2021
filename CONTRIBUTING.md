@@ -16,6 +16,8 @@ Don't forget put your name
 - Hasan Basrie
 - Muhammad Hilmy AL Jauzy
 - Syafiq Rizky Fauzi
+
+- krishnaditya
 - adrenal29 Mohit
 - Mayank Kumar
 - Suyog Vinod Chaudhari
@@ -26,3 +28,4 @@ Don't forget put your name
 
 - Aneesh
 - Md. Almas Ali
+
