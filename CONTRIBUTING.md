@@ -42,9 +42,8 @@ Don't forget put your name
 - Romadhon Aji
 - Sai Varshith
 - Faiz Nurullah
+- Muhammad Thaariq Prasetia
+- Arif Febrianto
 - Hasyim
-
--JyothiJayaram
-
-
+- JyothiJayaram
 - Muhammad Thaariq Prasetia
