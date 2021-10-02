@@ -30,6 +30,16 @@ Don't forget put your name
 - vinz15
 
 - yash hax
+- Denny Sinaga
+- Muhammad Nur Faqiih
+- Saif Kholid
+- Aneesh
+- Md. Almas Ali
+- Romadhon Aji
+- ibnusyawall
+
+
+- yash hax
 
 
 - Denny Sinaga
@@ -41,6 +51,7 @@ Don't forget put your name
 - Md. Almas Ali
 - Romadhon Aji
 - Sai Varshith
+
 
 
 
