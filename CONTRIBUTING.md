@@ -49,3 +49,4 @@ Don't forget put your name
 - Neno Arisma
 - JyothiJayaram
 - Muhammad Thaariq Prasetia
+- Ritu Rani Mohapatra
