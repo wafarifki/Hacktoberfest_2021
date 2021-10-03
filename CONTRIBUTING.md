@@ -51,3 +51,5 @@ Don't forget put your name
 - Muhammad Thaariq Prasetia
 - Ritu Rani Mohapatra
 - Aditya Azad
+- Rizki Sofyan
+- Hafitz Setya
