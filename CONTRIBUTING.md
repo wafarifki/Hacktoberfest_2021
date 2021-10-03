@@ -53,4 +53,11 @@ Don't forget put your name
 - Rizki Sofyan
 - Hafitz Setya
 - Shubham Rana
-
+- Muhammad Al Farizzi
+- j3ndra
+- Rizki Sofyan
+- Hafitz Setya
+- Junianto Endra
+- Aditya Azad
+- Rizki Sofyan
+- Hafitz Setya
