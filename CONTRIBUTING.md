@@ -51,3 +51,17 @@ Don't forget put your name
 - Muhammad Thaariq Prasetia
 - Ritu Rani Mohapatra
 - Muhammad Bhaska
+- syamsi iman permana
+- Stephen Wong
+- Rizki Sofyan
+- Hafitz Setya
+- Raya 
+- Shubham Rana
+- Muhammad Al Farizzi
+- j3ndra
+- Rizki Sofyan
+- Hafitz Setya
+- Junianto Endra
+- Aditya Azad
+- Rizki Sofyan
+- Hafitz Setya
