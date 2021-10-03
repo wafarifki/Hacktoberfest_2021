@@ -50,6 +50,9 @@ Don't forget put your name
 - JyothiJayaram
 - Muhammad Thaariq Prasetia
 - Ritu Rani Mohapatra
+- Rizki Sofyan
+- Hafitz Setya
+- Shubham Rana
 - Muhammad Al Farizzi
 - j3ndra
 - Rizki Sofyan
