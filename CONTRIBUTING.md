@@ -50,8 +50,6 @@ Don't forget put your name
 - JyothiJayaram
 - Muhammad Thaariq Prasetia
 - Ritu Rani Mohapatra
-
+- Aditya Azad
 - Rizki Sofyan
-
 - Hafitz Setya
-
