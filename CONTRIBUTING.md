@@ -64,6 +64,7 @@ Don't forget put your name
 - Junianto Endra
 - Aditya Azad
 - Rizki Sofyan
-- Hafitz Setya
-- Awal Ariansyah
 - Lakshay Goel
+- Prashant Sharma
+- Muhammad Adzkiya
+- Awal Ariansyah
