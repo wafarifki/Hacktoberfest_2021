@@ -1,0 +1,3 @@
+input "Panjang Persegi = ",p
+input "Lebar persegi = ",l
+print "Luas Persegi = " +p*l + " cm"
