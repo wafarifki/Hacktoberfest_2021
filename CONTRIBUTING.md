@@ -50,8 +50,26 @@ Don't forget put your name
 - JyothiJayaram
 - Muhammad Thaariq Prasetia
 - Ritu Rani Mohapatra
+
 - Muhammad Khuirul Huda
 - Rizki Sofyan
 - Hafitz Setya
 
+
+
+- Muhammad Bhaska
+- syamsi iman permana
+- Stephen Wong
+- Rizki Sofyan
+- Hafitz Setya
+- Raya 
+- Shubham Rana
+- Muhammad Al Farizzi
+- j3ndra
+- Rizki Sofyan
+- Hafitz Setya
+- Junianto Endra
+- Aditya Azad
+- Rizki Sofyan
+- Hafitz Setya
 
