@@ -3,7 +3,7 @@ Contoh penggunaan Operator Aritmatika Pada Java
 */
 import java.util.Scanner;
 
-public class aritmatika{
+public class rzkfyn{
     public static void main(String[]args){
         
         Scanner input = new Scanner(System.in);
