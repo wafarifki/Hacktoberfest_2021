@@ -68,3 +68,4 @@ Don't forget put your name
 - Prashant Sharma
 - Muhammad Adzkiya
 - Awal Ariansyah
+- Misa Singh
