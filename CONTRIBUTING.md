@@ -66,3 +66,4 @@ Don't forget put your name
 - Rizki Sofyan
 - Hafitz Setya
 - Awal Ariansyah
+- Lakshay Goel
