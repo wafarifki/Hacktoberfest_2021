@@ -51,3 +51,10 @@ Don't forget put your name
 - Muhammad Thaariq Prasetia
 - Ritu Rani Mohapatra
 - Muhammad Al Farizzi
+- j3ndra
+- Rizki Sofyan
+- Hafitz Setya
+- Junianto Endra
+- Aditya Azad
+- Rizki Sofyan
+- Hafitz Setya
