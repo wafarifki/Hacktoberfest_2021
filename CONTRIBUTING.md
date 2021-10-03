@@ -52,6 +52,7 @@ Don't forget put your name
 - Ritu Rani Mohapatra
 - Rizki Sofyan
 - Hafitz Setya
+- Raya 
 - Shubham Rana
 - Muhammad Al Farizzi
 - j3ndra
