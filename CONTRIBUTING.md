@@ -50,6 +50,7 @@ Don't forget put your name
 - JyothiJayaram
 - Muhammad Thaariq Prasetia
 - Ritu Rani Mohapatra
+- Stephen Wong
 - Rizki Sofyan
 - Hafitz Setya
 - Raya 
