@@ -67,3 +67,5 @@ Don't forget put your name
 - Hafitz Setya
 - Awal Ariansyah
 - Prashant Sharma
+- Muhammad Adzkiya
+- Awal Ariansyah
