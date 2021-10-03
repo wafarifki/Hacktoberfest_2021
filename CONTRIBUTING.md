@@ -65,5 +65,7 @@ Don't forget put your name
 - Aditya Azad
 - Rizki Sofyan
 - Hafitz Setya
+- Awal Ariansyah
+- Prashant Sharma
 - Muhammad Adzkiya
 - Awal Ariansyah
