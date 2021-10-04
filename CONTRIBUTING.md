@@ -75,4 +75,5 @@ Don't forget put your name
 - Ayatullah Naufal
 - Septiyan Nugroho
 - Ritika Garg
+- Arnab Paryali
 - Andre Tri Ramadana
