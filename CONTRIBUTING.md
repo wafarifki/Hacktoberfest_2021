@@ -73,3 +73,4 @@ Don't forget put your name
 - Rafi Nur Ardiansyah
 - Ayatullah Naufal
 - Septiyan Nugroho
+- Ritika Garg
