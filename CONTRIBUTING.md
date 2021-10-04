@@ -69,6 +69,7 @@ Don't forget put your name
 - Muhammad Adzkiya
 - Awal Ariansyah
 - Misa Singh
+- Wahid Ari
 - Rafi Nur Ardiansyah
 - Ayatullah Naufal
 - Septiyan Nugroho
