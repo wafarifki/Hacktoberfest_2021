@@ -70,3 +70,9 @@ Don't forget put your name
 - Awal Ariansyah
 - Misa Singh
 - Ilzam Afif
+- Wahid Ari
+- Rafi Nur Ardiansyah
+- Ayatullah Naufal
+- Septiyan Nugroho
+- Ritika Garg
+- Andre Tri Ramadana
