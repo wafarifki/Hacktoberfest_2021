@@ -69,5 +69,12 @@ Don't forget put your name
 - Muhammad Adzkiya
 - Awal Ariansyah
 - Misa Singh
+- Ilzam Afif
+- Wahid Ari
 - Rafi Nur Ardiansyah
 - xhiko1
+- Ayatullah Naufal
+- Septiyan Nugroho
+- Ritika Garg
+- Arnab Paryali
+- Andre Tri Ramadana
