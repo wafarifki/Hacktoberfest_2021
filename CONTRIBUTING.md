@@ -74,3 +74,4 @@ Don't forget put your name
 - Ayatullah Naufal
 - Septiyan Nugroho
 - Ritika Garg
+- Andre Tri Ramadana
