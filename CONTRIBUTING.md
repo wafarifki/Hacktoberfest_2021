@@ -69,3 +69,4 @@ Don't forget put your name
 - Muhammad Adzkiya
 - Awal Ariansyah
 - Misa Singh
+- Wahid Ari
