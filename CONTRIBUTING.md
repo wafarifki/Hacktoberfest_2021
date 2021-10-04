@@ -55,7 +55,7 @@ Don't forget put your name
 - Stephen Wong
 - Rizki Sofyan
 - Hafitz Setya
-- Raya 
+- Raya
 - Shubham Rana
 - Muhammad Al Farizzi
 - j3ndra
@@ -72,6 +72,7 @@ Don't forget put your name
 - Ilzam Afif
 - Wahid Ari
 - Rafi Nur Ardiansyah
+- Danar Putra
 - xhiko1
 - Ayatullah Naufal
 - Septiyan Nugroho
