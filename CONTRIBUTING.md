@@ -34,6 +34,7 @@ Don't forget put your name
 - Romadhon Aji
 - ibnusyawall
 - Sairantri Pathak
+- JaxBCD
 - yash hax
 - Denny Sinaga
 - Muhammad Nur Faqiih
