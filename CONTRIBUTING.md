@@ -79,4 +79,21 @@ Don't forget put your name
 - Ritika Garg
 - Arnab Paryali
 - Andre Tri Ramadana
+
 - Wahyu Firmansyah
+
+- Antareza Ghifary AM
+
+- Mario Saptoro
+
+
+- Pratibha Singh
+
+
+- Rivaldo P
+
+- ZUlfikar Ditya
+
+
+
+
