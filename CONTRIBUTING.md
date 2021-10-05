@@ -80,4 +80,12 @@ Don't forget put your name
 - Arnab Paryali
 - Andre Tri Ramadana
 - Antareza Ghifary AM
+
 - Pratibha Singh
+
+
+- Rivaldo P
+
+- ZUlfikar Ditya
+
+
