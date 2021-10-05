@@ -79,6 +79,9 @@ Don't forget put your name
 - Ritika Garg
 - Arnab Paryali
 - Andre Tri Ramadana
+
+- Wahyu Firmansyah
+
 - Antareza Ghifary AM
 
 - Mario Saptoro
@@ -90,6 +93,7 @@ Don't forget put your name
 - Rivaldo P
 
 - ZUlfikar Ditya
+
 
 
 
