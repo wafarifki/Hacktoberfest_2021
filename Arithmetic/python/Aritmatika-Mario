@@ -1,0 +1,4 @@
+Alpukat= 10
+Cherry = 65
+buah = Alpukat - Cherry
+print(buah)
