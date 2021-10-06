@@ -1,6 +1,8 @@
 #GREATEST COMMON DIFFERENCE(Gcd)
+
+#Faktor Persekutuan Terbesar menggunakan python
 import math
-print(math.gcd(10,25))
-print(math.gcd(7,343))
-print(math.gcd(20,80))
-print(math.gcd(391,323))
+num1 = int(input("Num 1: "))
+num2 = int(input("Num 2: "))
+print("Hasil FPB")
+print(math.gcd(num1,num2))
