@@ -6,10 +6,10 @@ def _reversed(value):
     temp += value[n]
   return temp
 
-inputStr = input('Input your text : ')
+inputStr = input('Masukkan sebuah kata : ')
 
-print('Before reversed ', inputStr)
+print('Sebelum di balik ', inputStr)
 
-print('After reversed ', _reversed(inputStr))
+print('Setelah di balik ', _reversed(inputStr))
 
 
