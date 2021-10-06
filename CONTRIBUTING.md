@@ -34,6 +34,7 @@ Don't forget put your name
 - Romadhon Aji
 - ibnusyawall
 - Sairantri Pathak
+- JaxBCD
 - yash hax
 - Denny Sinaga
 - Muhammad Nur Faqiih
@@ -79,21 +80,12 @@ Don't forget put your name
 - Ritika Garg
 - Arnab Paryali
 - Andre Tri Ramadana
-
 - Wahyu Firmansyah
-
 - Antareza Ghifary AM
-
 - Mario Saptoro
-
-
 - Pratibha Singh
-
-
 - Rivaldo P
-
 - ZUlfikar Ditya
-
 - Hasan Nur
-
-
+- Athallah Dzaki
+- Dimas Anugerah P
