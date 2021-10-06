@@ -87,6 +87,7 @@ Don't forget put your name
 - Rivaldo P
 - ZUlfikar Ditya
 - Athallah Dzaki
+- Dimas Anugerah P
 
 
 
