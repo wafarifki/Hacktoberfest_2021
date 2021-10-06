@@ -1,8 +1,8 @@
-// You Can Use It For Free - AthallahDzaki
+// Use It For Free - Athallah Dzaki
 
 function ChooseRandom(array)
 {
-    return array[Math.floor(Math.random * array.length)];
+    return array[Math.round(Math.random() * array.length)];
 }
 
 let array = ['Jhon', 'Dhoe', 'Elips', 'Ken', 'Kennedy', 'Josh', 'King', 'Lord', 'Queen'];
