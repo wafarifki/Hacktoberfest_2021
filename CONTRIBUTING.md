@@ -86,8 +86,6 @@ Don't forget put your name
 - Pratibha Singh
 - Rivaldo P
 - ZUlfikar Ditya
+- Hasan Nur
 - Athallah Dzaki
 - Dimas Anugerah P
-
-
-
