@@ -90,6 +90,7 @@ Don't forget put your name
 - Athallah Dzaki
 - Dimas Anugerah P
 - Nukholis Ramadhan
+- Thiccy
 - Arif Dwi Nugroho
 - Teddi Rahman
 - Devesh Chandra
