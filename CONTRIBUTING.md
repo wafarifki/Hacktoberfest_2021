@@ -90,6 +90,7 @@ Don't forget put your name
 - Athallah Dzaki
 - Dimas Anugerah P
 - Nukholis Ramadhan
+- Rikky Arisendi
 - Anissa Fauzia Isyanti
 - Ikhari
 - Thiccy
