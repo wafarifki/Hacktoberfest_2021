@@ -91,3 +91,6 @@ Don't forget put your name
 - Dimas Anugerah P
 - Nukholis Ramadhan
 - Thiccy
+- Arif Dwi Nugroho
+- Teddi Rahman
+- Devesh Chandra
