@@ -80,6 +80,8 @@ Don't forget put your name
 - Ritika Garg
 - Arnab Paryali
 - Andre Tri Ramadana
+- Antareza Ghifary AM
+- Muhammad Rezki Ananda
 - Wahyu Firmansyah
 - Antareza Ghifary AM
 - Mario Saptoro
