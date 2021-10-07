@@ -34,6 +34,7 @@ Don't forget put your name
 - Romadhon Aji
 - ibnusyawall
 - Sairantri Pathak
+- JaxBCD
 - yash hax
 - Denny Sinaga
 - Muhammad Nur Faqiih
@@ -81,3 +82,22 @@ Don't forget put your name
 - Andre Tri Ramadana
 - Antareza Ghifary AM
 - Muhammad Rezki Ananda
+- Wahyu Firmansyah
+- Antareza Ghifary AM
+- Mario Saptoro
+- Pratibha Singh
+- Rivaldo P
+- ZUlfikar Ditya
+- Hasan Nur
+- Athallah Dzaki
+- Dimas Anugerah P
+- Nukholis Ramadhan
+- Santosh Pant
+- Yash Bansal
+- Rikky Arisendi
+- Anissa Fauzia Isyanti
+- Ikhari
+- Thiccy
+- Arif Dwi Nugroho
+- Teddi Rahman
+- Devesh Chandra
