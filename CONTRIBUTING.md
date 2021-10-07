@@ -80,6 +80,8 @@ Don't forget put your name
 - Ritika Garg
 - Arnab Paryali
 - Andre Tri Ramadana
+- Antareza Ghifary AM
+- Muhammad Rezki Ananda
 - Wahyu Firmansyah
 - Antareza Ghifary AM
 - Mario Saptoro
@@ -91,3 +93,12 @@ Don't forget put your name
 - Dimas Anugerah P
 - Nukholis Ramadhan
 - Darus Salam Alfatah
+- Santosh Pant
+- Yash Bansal
+- Rikky Arisendi
+- Anissa Fauzia Isyanti
+- Ikhari
+- Thiccy
+- Arif Dwi Nugroho
+- Teddi Rahman
+- Devesh Chandra
