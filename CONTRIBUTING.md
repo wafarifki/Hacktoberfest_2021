@@ -91,6 +91,7 @@ Don't forget put your name
 - Dimas Anugerah P
 - Nukholis Ramadhan
 - Santosh Pant
+- Yash Bansal
 - Rikky Arisendi
 - Anissa Fauzia Isyanti
 - Ikhari
