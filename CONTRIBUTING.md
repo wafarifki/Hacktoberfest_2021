@@ -92,6 +92,7 @@ Don't forget put your name
 - Athallah Dzaki
 - Dimas Anugerah P
 - Nukholis Ramadhan
+- Darus Salam Alfatah
 - Santosh Pant
 - Yash Bansal
 - Rikky Arisendi
