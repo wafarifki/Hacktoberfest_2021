@@ -91,3 +91,10 @@ Don't forget put your name
 - Dimas Anugerah P
 - Nukholis Ramadhan
 - Yash Bansal
+- Rikky Arisendi
+- Anissa Fauzia Isyanti
+- Ikhari
+- Thiccy
+- Arif Dwi Nugroho
+- Teddi Rahman
+- Devesh Chandra
