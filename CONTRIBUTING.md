@@ -104,5 +104,7 @@ Don't forget put your name
 - Arif Dwi Nugroho
 - Teddi Rahman
 - Devesh Chandra
+- S Yuvaraj
+- Abdullah Aljufri
 - Abdullah Aljufri
 - Afdlol
