@@ -1,5 +1,6 @@
 Don't forget put your name
 
+- Naman Jain
 - Wafa Rifqi Anafin
 - Mutia Zahra
 - Rithika Hebbar
@@ -103,5 +104,8 @@ Don't forget put your name
 - Arif Dwi Nugroho
 - Teddi Rahman
 - Devesh Chandra
+- S Yuvaraj
 - Abdullah Aljufri
 - Shreya Shettar
+- Abdullah Aljufri
+- Afdlol
