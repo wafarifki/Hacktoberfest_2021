@@ -1,5 +1,6 @@
 Don't forget put your name
 
+- Naman Jain
 - Wafa Rifqi Anafin
 - Mutia Zahra
 - Rithika Hebbar
