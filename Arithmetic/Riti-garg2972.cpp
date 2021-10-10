@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+
 int fib(int n) {
         if(n==0)
             return 0;
@@ -15,5 +16,4 @@ int main()
     cin>>n;
     cout<<n<<"th"<<" Fibonacci number is "<<fib(n);
     return 0;
-
 }
