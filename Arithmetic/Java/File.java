@@ -1,10 +1,10 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class File {
+public class ArithmeticOpMenu {
 
     static double lcm(int n1, int n2) {
-        return (n1*n2)/File.gcd(n1,n2);
+        return (n1*n2)/ArithmeticOpMenu.gcd(n1,n2);
     }
     
     static double gcd(int n1, int n2) {
@@ -20,7 +20,7 @@ public class File {
 
     public static void main(String args[]) {
         Scanner scan = new Scanner(System.in);
-        File.displayMenu();
+        ArithmeticOpMenu.displayMenu();
         try {
             while(true) {
                 System.out.print("Enter two integers: ");
@@ -36,16 +36,16 @@ public class File {
                     case "/" : answer = n1/n2; break;
                     case "%" : answer = n1%n2; break;
                     case "power" : answer = Math.pow(n1,n2); break;
-                    case "lcm" : answer = File.lcm(n1, n2); break;
-                    case "gcd" : answer = File.gcd(n1,n2); break;
+                    case "lcm" : answer = ArithmeticOpMenu.lcm(n1, n2); break;
+                    case "gcd" : answer = ArithmeticOpMenu.gcd(n1,n2); break;
                     case "&" : answer = n1 & n2; break;
                     case "|" : answer = n1 | n2; break;
                     case "^" : answer = n1 ^ n2; break;
                     case "<<" : answer = n1 << n2; break;
                     case ">>" : answer = n1 >> n2; break;
-                    case "menu" : File.displayMenu(); break;
+                    case "menu" : ArithmeticOpMenu.displayMenu(); break;
                     case "exit" : scan.close();return ;
-                    default : File.displayMenu();
+                    default : ArithmeticOpMenu.displayMenu();
                 }
                 System.out.print(n1 + " " + operator + " " + n2 + " = ");
                 if(answer == (int) answer)
