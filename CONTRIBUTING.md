@@ -1,5 +1,6 @@
 Don't forget put your name
 
+- Naman Jain
 - Wafa Rifqi Anafin
 - Mutia Zahra
 - Rithika Hebbar
@@ -17,6 +18,7 @@ Don't forget put your name
 - Muhammad Hilmy AL Jauzy
 - Syafiq Rizky Fauzi
 - krishnaditya
+- Sam Gan
 - adrenal29 Mohit
 - Mayank Kumar
 - Suyog Vinod Chaudhari
@@ -104,3 +106,12 @@ Don't forget put your name
 - Teddi Rahman
 - Devesh Chandra
 - Achmad Rizqi Adi Alamsyah
+- Amruta Darak
+- Archana Nayak
+- S Yuvaraj
+- Abdullah Aljufri
+- Shreya Shettar
+- Afdlol
+- Dzaki Afif
+- Mritunjay Kumar
+- aster-max
