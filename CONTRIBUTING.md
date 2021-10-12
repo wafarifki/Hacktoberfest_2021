@@ -18,6 +18,7 @@ Don't forget put your name
 - Muhammad Hilmy AL Jauzy
 - Syafiq Rizky Fauzi
 - krishnaditya
+- Sam Gan
 - adrenal29 Mohit
 - Mayank Kumar
 - Suyog Vinod Chaudhari
@@ -104,9 +105,15 @@ Don't forget put your name
 - Arif Dwi Nugroho
 - Teddi Rahman
 - Devesh Chandra
+- Achmad Rizqi Adi Alamsyah
+- Amruta Darak
+- Archana Nayak
 - S Yuvaraj
 - Abdullah Aljufri
 - Shreya Shettar
 - Abdullah Aljufri
-- Afdlol
 - Bishal Laha
+- Afdlol
+- Dzaki Afif
+- Mritunjay Kumar
+- aster-max
