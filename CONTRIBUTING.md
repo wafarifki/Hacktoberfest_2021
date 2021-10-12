@@ -105,6 +105,7 @@ Don't forget put your name
 - Arif Dwi Nugroho
 - Teddi Rahman
 - Devesh Chandra
+- Achmad Rizqi Adi Alamsyah
 - Amruta Darak
 - Archana Nayak
 - S Yuvaraj
