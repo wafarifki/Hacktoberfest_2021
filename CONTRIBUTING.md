@@ -18,6 +18,7 @@ Don't forget put your name
 - Muhammad Hilmy AL Jauzy
 - Syafiq Rizky Fauzi
 - krishnaditya
+- Sam Gan
 - adrenal29 Mohit
 - Mayank Kumar
 - Suyog Vinod Chaudhari
@@ -111,3 +112,4 @@ Don't forget put your name
 - Afdlol
 - Dzaki Afif
 - Mritunjay Kumar
+- aster-max
