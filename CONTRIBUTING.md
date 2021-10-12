@@ -105,11 +105,11 @@ Don't forget put your name
 - Arif Dwi Nugroho
 - Teddi Rahman
 - Devesh Chandra
+- Amruta Darak
 - Archana Nayak
 - S Yuvaraj
 - Abdullah Aljufri
 - Shreya Shettar
-- Abdullah Aljufri
 - Afdlol
 - Dzaki Afif
 - Mritunjay Kumar
