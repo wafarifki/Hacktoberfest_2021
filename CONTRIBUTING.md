@@ -111,3 +111,4 @@ Don't forget put your name
 - Abdullah Aljufri
 - Afdlol
 - Dzaki Afif
+- aster-max
