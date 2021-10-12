@@ -115,6 +115,7 @@ Don't forget put your name
 - Bishal Laha
 - Afdlol
 - Dzaki Afif
+- Naufal Saidhus Syuhur
 - Roshan Sharma
 - Mritunjay Kumar
 - aster-max
