@@ -1,5 +1,6 @@
 Don't forget put your name
 
+- Naman Jain
 - Wafa Rifqi Anafin
 - Mutia Zahra
 - Rithika Hebbar
@@ -17,6 +18,7 @@ Don't forget put your name
 - Muhammad Hilmy AL Jauzy
 - Syafiq Rizky Fauzi
 - krishnaditya
+- Sam Gan
 - adrenal29 Mohit
 - Mayank Kumar
 - Suyog Vinod Chaudhari
@@ -34,6 +36,7 @@ Don't forget put your name
 - Romadhon Aji
 - ibnusyawall
 - Sairantri Pathak
+- JaxBCD
 - yash hax
 - Denny Sinaga
 - Muhammad Nur Faqiih
@@ -55,7 +58,7 @@ Don't forget put your name
 - Stephen Wong
 - Rizki Sofyan
 - Hafitz Setya
-- Raya 
+- Raya
 - Shubham Rana
 - Muhammad Al Farizzi
 - j3ndra
@@ -69,4 +72,50 @@ Don't forget put your name
 - Muhammad Adzkiya
 - Awal Ariansyah
 - Misa Singh
+- Ilzam Afif
+- Wahid Ari
 - Rafi Nur Ardiansyah
+- Danar Putra
+- xhiko1
+- Ayatullah Naufal
+- Septiyan Nugroho
+- Ritika Garg
+- Arnab Paryali
+- Andre Tri Ramadana
+- Antareza Ghifary AM
+- Muhammad Rezki Ananda
+- Wahyu Firmansyah
+- maleeshasilva
+- Antareza Ghifary AM
+- Mario Saptoro
+- Pratibha Singh
+- Rivaldo P
+- ZUlfikar Ditya
+- Hasan Nur
+- Athallah Dzaki
+- Dimas Anugerah P
+- Nukholis Ramadhan
+- Darus Salam Alfatah
+- Santosh Pant
+- Yash Bansal
+- Rikky Arisendi
+- Anissa Fauzia Isyanti
+- Ikhari
+- Thiccy
+- Arif Dwi Nugroho
+- Teddi Rahman
+- Devesh Chandra
+- Achmad Rizqi Adi Alamsyah
+- Amruta Darak
+- Archana Nayak
+- S Yuvaraj
+- Abdullah Aljufri
+- Shreya Shettar
+- Abdullah Aljufri
+- Bishal Laha
+- Afdlol
+- Dzaki Afif
+- Naufal Saidhus Syuhur
+- Roshan Sharma
+- Mritunjay Kumar
+- aster-max
