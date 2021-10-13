@@ -63,8 +63,7 @@ def create_dictionary(clean_list):
 		the crawled page --> 
 		
 	# operator.itemgetter() takes one 
-	# parameter either 1(denotes keys) 
-	# or 0 (denotes corresponding values) 
+	# parameter either 1(denotes keys) or 0 (denotes values) 
 	
 	for key, value in sorted(word_count.items(), 
 					key = operator.itemgetter(1)): 
