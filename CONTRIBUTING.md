@@ -120,3 +120,9 @@ Don't forget put your name
 - Mritunjay Kumar
 - aster-max
 - Fajar Rian Setyawan
+- gemaekashantiputri
+- xvbnm48
+- M Fariz Wisnu Pranandaa
+- Yash Soni
+- Zahiruddin Norzain
+- Sahil Sharma(KIET7UKE)
