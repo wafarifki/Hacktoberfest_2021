@@ -119,4 +119,4 @@ Don't forget put your name
 - Roshan Sharma
 - Mritunjay Kumar
 - aster-max
-- M Fariz Wisnu Prananda
+- M Fariz Wisnu Pranandaa
