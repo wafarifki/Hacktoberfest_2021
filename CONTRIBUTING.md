@@ -119,6 +119,8 @@ Don't forget put your name
 - Roshan Sharma
 - Mritunjay Kumar
 - aster-max
+- xvbnm48
+- M Fariz Wisnu Pranandaa
 - Yash Soni
 - Zahiruddin Norzain
 - Sahil Sharma(KIET7UKE)
