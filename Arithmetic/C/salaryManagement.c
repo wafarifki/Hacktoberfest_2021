@@ -1,3 +1,8 @@
+/***It's a code to salary management of employee***/
+/***Algorithm: Basic file handling algorithm is used here***/
+
+//@Author: Soumyadip Ghosh (Github: https://github.com/SoumyadipGhosh23)
+
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
