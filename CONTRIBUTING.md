@@ -33,6 +33,7 @@ Don't forget put your name
 - Saif Kholid
 - Aneesh
 - Md. Almas Ali
+- Udyavara Vasundhara Shenoy
 - Romadhon Aji
 - ibnusyawall
 - Sairantri Pathak
@@ -130,7 +131,9 @@ Don't forget put your name
 - Kingkin Fajar Anifianto
 - Rahmat Rendy Prayogo
 - Chamod Dananjaya
+- Aniket Mondal
 - Alvin Triseptia Mairis
 - Nadya milona
 - Gourav chawla
 - Soumyadip Ghosh
+- TubagusNM
