@@ -1,1 +1,2 @@
-This folder contains two projects in C
+# C Project
+This folder is dedicated for C Project
