@@ -1,7 +1,7 @@
 Don't forget put your name
 
-- Naman Jain
 - Wafa Rifqi Anafin
+- Naman Jain
 - Mutia Zahra
 - Rithika Hebbar
 - Dodi
@@ -142,3 +142,5 @@ Don't forget put your name
 - Soumyadip Ghosh
 - TubagusNM
 - Sameer Aggrawal
+- Muryaaadi
+- Suroso Dev
