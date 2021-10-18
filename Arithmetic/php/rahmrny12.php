@@ -13,4 +13,18 @@
 	}
 
 	echo hitung_umur("2022-07-12");
-?>
+
+	// ======================================================
+
+	function hitung_pangkat($bilangan, $pangkat) {
+		if (!is_numeric($bilangan)) {
+			return "Bilangan harus bernilai angka";
+		} else if (!is_numeric($pangkat)) {
+			return "Pangkat harus bernilai angka";
+		}
+
+		$hasil = pow($bilangan, $pangkat);
+		return "$bilangan pangkat $pangkat = " . $hasil;
+	}
+
+	echo hitung_pangkat(2, 4);
