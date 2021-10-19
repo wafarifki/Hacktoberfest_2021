@@ -144,11 +144,9 @@ Don't forget put your name
 - Sameer Aggrawal
 - Muryaaadi
 - Suroso Dev
-
 - Leksyking
-
 - Akash Shanker
 - Anish Shilpakar
-
 - Ijmalan
+- Tarun Bisht
 - ritwized
