@@ -15,16 +15,61 @@
 	echo hitung_umur("2022-07-12");
 
 	// ======================================================
-
+	
 	function hitung_pangkat($bilangan, $pangkat) {
 		if (!is_numeric($bilangan)) {
 			return "Bilangan harus bernilai angka";
 		} else if (!is_numeric($pangkat)) {
 			return "Pangkat harus bernilai angka";
 		}
-
+		
 		$hasil = pow($bilangan, $pangkat);
 		return "$bilangan pangkat $pangkat = " . $hasil;
 	}
-
+	
 	echo hitung_pangkat(2, 4);
+
+	// ======================================================
+	
+	function fibonacci($jumlah)
+	{
+		$angka_sebelumnya = 0;
+		$angka_sekarang = 1;
+		
+		$hasil = "$angka_sebelumnya $angka_sekarang";
+		
+		for ($i = 0; $i < $jumlah-2; $i++)
+		{
+			$angka_selanjutnya = $angka_sekarang + $angka_sebelumnya;
+			$hasil = $hasil . " $angka_selanjutnya";
+			
+			$angka_sebelumnya = $angka_sekarang;
+			$angka_sekarang = $angka_selanjutnya;
+		}
+		
+		return $hasil;
+		
+	}
+	
+	echo fibonacci(10);
+	
+	// ======================================================
+
+	function prima($batas) {
+		for ($i = 1;$i <= $batas;$i++) {
+	
+			$a = 0;
+	
+			for ($j = 1;$j <= $i;$j++) {
+				if ($i % $j == 0) {
+					$a++;
+				}
+			}
+	
+			if ($a == 2) {
+				 echo "$i ";
+			}
+		}
+	}
+	
+	prima(10);
