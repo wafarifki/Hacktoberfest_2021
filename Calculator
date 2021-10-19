@@ -1,0 +1,15 @@
+print("Would you like to add, subtract, multiply, or divide?")
+operator = input("")
+returnval = 0
+
+x = int(input("first val: "))
+y = int(input("second val: "))
+if operator == "add":
+    returnval = x + y
+if operator == "subtract":
+  returnval = x - y
+if operator == "divide":
+   returnval = x // y
+if operator == "multiply":
+  returnval = x*y
+print(returnval)
