@@ -1,27 +1,32 @@
-//Solve Towers of Hanoi problem
-
 #include <stdio.h>
+#include <conio.h>
 
-void towers(int, char, char, char);
-
-int main()
+void toh(int, char, char, char);
+    
+void main()
 {
-    int num;
+   int n;
+   printf("Enter the number of disk : ");
+   scanf("%d", &n);
 
-    printf("Enter the number of disks : ");
-    scanf("%d", &num);
-    printf("The sequence of moves involved in the Tower of Hanoi are :\n");
-    towers(num, 'A', 'C', 'B');
-    return 0;
+   printf("Here is sequence of moves of tower of hanoi  :\n");
+
+   toh(n, 'A', 'C', 'B');
 }
-void towers(int num, char frompeg, char topeg, char auxpeg)
+
+void toh(int no, char source, char destination, char spare)
 {
-    if (num == 1)
-    {
-        printf("\n Move disk 1 from peg %c to peg %c", frompeg, topeg);
-        return;
-    }
-    towers(num - 1, frompeg, auxpeg, topeg);
-    printf("\n Move disk %d from peg %c to peg %c", num, frompeg, topeg);
-    towers(num - 1, auxpeg, topeg, frompeg);
+   if (no == 1)
+      {
+         printf("\n move disk 1 from source %c to destination %c", source, destination);
+
+       return;
+      }
+
+     toh(no - 1, source, spare, destination);
+
+     printf("\n move disk %d from source %c to destination %c", no, source, destination);
+
+     toh(no - 1, spare, destination, source);
+
 }
