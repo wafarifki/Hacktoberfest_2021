@@ -36,13 +36,15 @@ int main()
     int x, pinCount=0;
 
     printf("\nEnter your name: ");
-    scanf("%[^\n]%*c", a);
+    scanf("%[^\n]%*c", a); //Enters name as input
 
     flag2:
     while(pinCount != 2){
         printf("\nEnter Your Pin: ");
         scanf("%d", &pin);
         pinCount++;
+        
+        //Checking ATM pin for Verification
         if(pin != 6996 && pinCount != 2){
             printf("\nIncorrect Pin, Try Again.......");
             getch();
@@ -60,7 +62,8 @@ int main()
 flag:
 
     x = list();
-
+    
+    //Options for Banking
     switch (x)
 
     {
@@ -128,6 +131,7 @@ int list()
     return ch;
 }
 
+//Function to Credit Amount to Bank Account
 void credit()
 
 {
@@ -148,6 +152,7 @@ void credit()
     fclose(fp);
 }
 
+//Function to Withdraw Amount from Bank Account
 void withdraw()
 
 {
@@ -178,6 +183,7 @@ void withdraw()
     fclose(fp);
 }
 
+//Prints all details of the Bank Account
 void checkdetail()
 
 {
