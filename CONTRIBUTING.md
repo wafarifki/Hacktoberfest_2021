@@ -144,4 +144,12 @@ Don't forget put your name
 - Sameer Aggrawal
 - Muryaaadi
 - Suroso Dev
+
 - Leksyking
+
+
+- Anish Shilpakar
+
+- Ijmalan
+
+
