@@ -31,7 +31,7 @@
 
 	// ======================================================
 
-	function print_deret_fibonacci($jumlah)
+	function fibonacci($jumlah)
 	{
 		$angka_sebelumnya = 0;
 		$angka_sekarang = 1;
@@ -51,4 +51,4 @@
 	  
 	}
 	  
-	echo print_deret_fibonacci(10);
+	echo fibonacci(10);
