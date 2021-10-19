@@ -44,7 +44,7 @@ void menu()
     system("cls");
 printf("\t\t**********WELCOME TO PHONEBOOK*************");
 
-printf("\n\n\t\t\t  MENU\t\t\n\n");
+printf("\n\n\t\t\t  <<< MENU >>>\t\t\n\n");
 printf("\t1.Add New   \t2.List   \t3.Exit  \n\t4.Modify \t5.Search\t6.Delete");
 
 switch(getch())
@@ -66,7 +66,7 @@ switch(getch())
     default:
                 system("cls");
                 printf("\nEnter 1 to 6 only");
-                printf("\n Enter any key");
+                printf("\n Enter any key: ");
                 getch();
 
 menu();
@@ -251,19 +251,19 @@ void modifyrecord()
 
 
 
-                    printf("\n Enter name:");
+                    printf("\n Enter name: ");
                     got(s.name);
-                    printf("\nEnter the address:");
+                    printf("\nEnter the address: ");
                     got(s.address);
-                    printf("\nEnter father name:");
+                    printf("\nEnter father name: ");
                     got(s.father_name);
-                    printf("\nEnter mother name:");
+                    printf("\nEnter mother name: ");
                     got(s.mother_name);
-                    printf("\nEnter phone no:");
+                    printf("\nEnter phone no: ");
                     scanf("%ld",&s.mble_no);
-                    printf("\nEnter sex:");
+                    printf("\nEnter sex: ");
                     got(s.sex);
-                    printf("\nEnter e-mail:");
+                    printf("\nEnter e-mail: ");
                     got(s.mail);
                     printf("\nEnter citizen no\n");
                     got(s.citision_no);
