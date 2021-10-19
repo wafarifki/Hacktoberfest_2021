@@ -2,18 +2,18 @@
     const quotes = [
         {
             quote:
-              " We grow fearless when we do the things we fear. ",
-            author: "- Robin Sharma"
+              " You are the shuckiest shuck faced shuck in the world! ",
+            author: "- James Dashner, The Maze Runner"
           },
           {
             quote:
-              " And, when you want something, all the universe conspires in helping you to achieve it. ",
-            author: "- Paulo Coelho, 'The Alchemist'"
+              " I'm unpredictable, I never know where I'm going until I get there, I'm so random, I'm always growing, learning, changing, I'm never the same person twice. But one thing you can be sure of about me; is I will always do exactly what I want to do. ",
+            author: "- C. JoyBell C."
           },
           {
             quote:
-              " When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one which has been opened for us.",
-            author: "- Helen Keller"
+              " But that was life: Nobody got a guided tour to their own theme park. You had to hop on the rides as they presented themselves, never knowing whether you would like the one you were in line for...or if the bastard was going to make you throw up your corn dog and your cotton candy all over the place. ",
+            author: "- J.R. Ward, Crave"
           },
           {
             quote: " If you hear a voice within you say 'you cannot paint,' then by all means paint and that voice will be silenced. ",
