@@ -30,7 +30,7 @@
 	echo hitung_pangkat(2, 4);
 
 	// ======================================================
-
+	
 	function fibonacci($jumlah)
 	{
 		$angka_sebelumnya = 0;
@@ -42,13 +42,34 @@
 		{
 			$angka_selanjutnya = $angka_sekarang + $angka_sebelumnya;
 			$hasil = $hasil . " $angka_selanjutnya";
-		
+			
 			$angka_sebelumnya = $angka_sekarang;
 			$angka_sekarang = $angka_selanjutnya;
 		}
-
+		
 		return $hasil;
-	  
+		
 	}
-	  
+	
 	echo fibonacci(10);
+	
+	// ======================================================
+
+	function prima($batas) {
+		for ($i = 1;$i <= $batas;$i++) {
+	
+			$a = 0;
+	
+			for ($j = 1;$j <= $i;$j++) {
+				if ($i % $j == 0) {
+					$a++;
+				}
+			}
+	
+			if ($a == 2) {
+				 echo "$i ";
+			}
+		}
+	}
+	
+	prima(10);
