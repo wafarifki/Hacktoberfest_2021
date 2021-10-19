@@ -1,4 +1,5 @@
 Don't forget put your name
+- Rathod Vinil
 - Rishika Kumar
 - Wafa Rifqi Anafin
 - Naman Jain
