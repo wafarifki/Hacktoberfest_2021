@@ -114,5 +114,4 @@ int main()
     Dequeue(q1);
     display(q1);
     peek(q1,2);
-
 }
