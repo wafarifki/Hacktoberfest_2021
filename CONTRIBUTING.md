@@ -1,5 +1,5 @@
 Don't forget put your name
-
+- Rishika Kumar
 - Wafa Rifqi Anafin
 - Naman Jain
 - Mutia Zahra
