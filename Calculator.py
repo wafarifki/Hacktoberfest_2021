@@ -1,5 +1,6 @@
+import math
 print("NO CAPITALS")
-ask_user = input("Do you want to add, subtract, divide, or multiply: ")
+ask_user = input("Do you want to add, subtract, divide, multiply or power: ")
 a = float(input("Put your number in here for your sum: "))
 b = float(input("Put your other number in here for your sum: "))
 sum = 0
@@ -15,3 +16,6 @@ if ask_user == "subtract":
 if ask_user == "multiply":
   sum = a * b
   print(str(a) + " * " + str(b) + " = " + str(sum))
+if ask_user == "power":
+  sum =  math.pow(a, b)
+  print(str(a) + " ^ " + str(b) + " = " + str(sum))
