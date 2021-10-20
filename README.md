@@ -24,3 +24,15 @@ langkah-langkah:
 - selesai
 
 Terima kasih telah berpartisipasi dengan repo ini. mari terhubung dengan saya dengan mengikuti saya di github.
+
+English Translation
+If you are looking for your first contribution, we are here to help. Just make a simple program using any language you like on the carpet that we provide. will count as your first PR
+
+steps:
+
+star and fork this repo
+create your simple program using any language you like in the folder we have provided and name your simple program with your username
+don't forget to add your name in CONTRIBUTING.md
+solicitud de extraccion do
+finished
+Thanks for participating with this repo. come connect with me by following me on githu
