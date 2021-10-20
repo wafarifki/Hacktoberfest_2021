@@ -2,28 +2,29 @@
 int main()
 {
     int ch;
-    float l,r,area;
+    float l,r;
     printf("1:Area of square\n2:Area of rectangle\n3:Area of circle\n");
+    printf("enter choice");//entering the choice from user
     scanf("%d",&ch);
     switch(ch)
     {
        case 1://we used float here as we will get numbers in decimal forms
            printf("Enter side of square:\n");
            scanf("%f",&l);
-           area=l*l;
-           printf("Area of square with given side is = %.2f",area);
+          
+           printf("Area of square with given side is = %.2f",(l*l);
        break;
        case 2:
            printf("Enter sides of rectangle:\n");
            scanf("%f%f",&l,&r);
-           area=l*r;
-           printf("Area of recatangle with given side is = %.2f",area);
+           
+           printf("Area of recatangle with given side is = %.2f",l*r);
        break;
        case 3:
            printf("Enter radius of circle:\n");
            scanf("%f",&r);
-           area=3.14*r*r;
-           printf("Area of circle with given radius is = %.2f",area);
+        
+           printf("Area of circle with given radius is = %.2f",3.14*r*r);
        break;
        default:
            printf("Invalid Input");
