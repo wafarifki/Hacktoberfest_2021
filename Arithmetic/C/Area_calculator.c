@@ -33,7 +33,7 @@ int main()
        break;
             
        case 4:
-			printf("Enter length of the base of rectangle: ");
+		printf("Enter length of the base of rectangle: ");
            	scanf("%f",&l);
            	printf("Enter height of rectangle: ");
            	scanf("%f",&b);
