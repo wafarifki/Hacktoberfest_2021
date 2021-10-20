@@ -153,3 +153,4 @@ Don't forget put your name
 - Tarun Bisht
 - ritwized
 - Aditya Fitriana NS
+- Ricky Zakaria P
