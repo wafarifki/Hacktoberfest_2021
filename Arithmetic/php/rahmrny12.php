@@ -1,4 +1,26 @@
 <?php
+	function ganjil($batas) {
+		for ($i = 1;$i < $batas;$i++) {
+			if ($i % 2 != 0) {
+				echo "$i ";
+			}
+		}
+	}
+	
+	function genap($batas) {
+		for ($i = 1;$i < $batas;$i++) {
+			if ($i % 2 == 0) {
+				echo "$i ";
+			}
+		}
+	}
+	
+	ganjil(15);
+	echo "<br>";
+	genap(15);
+	
+	// ======================================================
+	
 	function hitung_umur($tanggal_lahir){
 		$birthDate = new DateTime($tanggal_lahir);
 		$today = new DateTime("today");

@@ -28,6 +28,7 @@ Don't forget put your name
 - Saif Kholid
 - Haikel
 - vinz15
+- anshuman
 - yash hax
 - Denny Sinaga
 - Muhammad Nur Faqiih
@@ -152,4 +153,17 @@ Don't forget put your name
 - LORO SANDI (sandicyber)
 - Tarun Bisht
 - ritwized
+- Bayu Putra Herlambang
+- Ankur Aggarwal
 - Aditya Fitriana NS
+- Naushad Alam
+- Swarna Jha
+- Sona Martin
+- Anish Ghimire
+- Ricky Zakaria P
+- Abil Fida D
+- whoisraa
+
+
+
+
