@@ -152,5 +152,16 @@ Don't forget put your name
 - LORO SANDI (sandicyber)
 - Tarun Bisht
 - ritwized
+
+- Ankur Aggarwal
+
 - Aditya Fitriana NS
+
 - Anish Ghimire
+
+
+- Ricky Zakaria P
+
+
+
+

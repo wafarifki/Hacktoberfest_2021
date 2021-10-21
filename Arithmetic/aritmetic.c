@@ -16,6 +16,7 @@ void main () {
   printf("\n\nResult for (-): %d", a - b);
   printf("\n\nResult for (*): %d", a * b);
   printf("\n\nResult for (/): %d", a / b);
+  printf("\n\nResult for (%): %d", a % b);
 
   // Finish
   printf("\n\n\nThanks for using this program!\n");
