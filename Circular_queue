@@ -1,0 +1,118 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+# define MAX 100
+
+struct queue{
+    int items[MAX];
+    int front;
+    int rear;
+};
+
+typedef struct queue q;
+
+void create_empty_queue(q* q1)
+{
+    q1->front = -1;
+    q1->rear = -1;
+    
+}
+
+int IsEmpty(q* q1)
+{
+    if(q1->front == -1 && q1->rear == -1)
+        return 1;
+    return 0;
+}
+
+int IsFull(q* q1)
+{
+    if((q1->rear==MAX-1 && q1->front==0) ||(q1->rear+1==q1->front))
+        return 1;
+    return 0;
+}
+
+void Enqueue(q* q1, int n)
+{
+    if(!IsFull(q1))
+    {
+        if(q1->front==-1)
+            q1->front = 0;
+        q1->rear+=1; 
+        q1->rear%=MAX ;
+        q1->items[q1->rear]=n;
+        return;
+    }
+    printf("queue overloaded\n");
+}
+
+void Dequeue(q* q1)
+{
+    if(!IsEmpty(q1))
+    {
+        if(q1->rear==q1->front)
+        {   q1->front = -2;
+            q1->rear = -1;
+        }
+        q1->front+=1;
+
+        if(q1->front>=0)
+            q1->front %=MAX ;
+        
+        return;
+    }
+    printf("queue underflow\n");
+}
+
+void peek(q *q1, int n)
+{
+    if(!IsEmpty(q1))
+    {
+        int i;
+            for( i=q1->front; i!=q1->rear;i=(i+1)%MAX)
+                if(q1->items[i]==n)
+                {   
+                    printf("element found at index %d\n",i);
+                    return;
+                }
+            if(q1->items[i]==n)
+            {   
+                printf("element found at index %d\n",i);
+                return;
+            }
+    }
+    printf("element not found\n");//windows-gcc-x86
+}
+
+void display(q* q1)
+{
+    if(!IsEmpty(q1))
+    {   
+        int i;
+        for( i=q1->front; i!=q1->rear;i=(i+1)%MAX)
+            printf("%d ",q1->items[i]);
+        printf("%d\n",q1->items[i]);
+        printf("\n");
+        return;        
+    }        
+    printf("queue empty\n");
+}
+
+int main()
+{
+
+    q* q1 = ( q*)malloc(sizeof(q));
+    create_empty_queue(q1);
+    Enqueue(q1,2);
+    Enqueue(q1,3);
+    Enqueue(q1,4);
+    Enqueue(q1,5);
+    display(q1);
+    peek(q1,3);
+    Dequeue(q1);
+    Dequeue(q1);
+    Dequeue(q1);
+    display(q1);
+    peek(q1,2);
+
+}
