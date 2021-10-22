@@ -1,6 +1,2 @@
-{
-    "files.associations": {
-        "stdlib.h": "c"
-    },
-    "liveServer.settings.port": 5501
-}
+{   "files.associations": {"stdlib.h": "c"},
+    "liveServer.settings.port": 5501}
