@@ -1,0 +1,20 @@
+print("What number would you like to convert to binary?")
+num = int(input())
+binaryvalue = ""
+binarydivisor = 128
+i = 0
+while not(i==8):
+  if num >= binarydivisor:
+    binaryvalue = binaryvalue + "1"
+    num = num-binarydivisor
+    binarydivisor = binarydivisor/2
+    print(binarydivisor)
+    
+  else:
+    binaryvalue = binaryvalue + "0"
+    binarydivisor = binarydivisor/2
+    print(binarydivisor)
+  
+  i = i+1
+ 
+  print (binaryvalue)

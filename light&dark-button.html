@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>light and dark</title>
+    <style>
+        *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #2f2f2f;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    display: flex;
+    transition: 0.5s;
+}
+body.active{
+    background-color: rgba(236, 232, 232, 0.959);
+}
+.button-space{
+    width: 320px;
+    height: 160px;
+    background-color: rgba(63, 60, 60, 0.089);
+    border-radius: 160px;
+    box-shadow: inset 1px 1px 10px rgb(2, 2, 2);
+    transition: 0.5s;
+    position: relative;
+}
+
+.button{
+    background-color: rgba(0, 0, 0, 0.123);
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    transform: scale(0.85);
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: 0.5s;
+    box-shadow: inset 1px 1px 10px #00000000,
+                inset -1px 1px 10px #0000006b;
+}
+.button-space.active{
+    background-color: rgba(83, 83, 83, 0.055);
+    box-shadow: inset 1px 4px 10px #0000001a,
+                inset -1px -4px 10px #0000001a;
+}
+.button-space.active .button{
+    left: 160px;
+    background-color: rgb(238, 236, 236);
+    box-shadow: inset 1px 1px 10px #4e4e4e67,
+                inset -1px -1px 10px #c0c0c069;
+}
+
+    </style>
+</head>
+<body>
+    <div class="button-space" id="button-space">
+        <div class="button" id="button"></div>
+    </div>
+    <script>
+        var body = document.querySelector("body"); 
+        var change = document.getElementById("button-space");
+        change.onclick=()=>{
+            change.classList.toggle("active"); //adding "active" to the class of "button-space"
+            body.classList.toggle("active"); //adding "active" to the class of body tag
+        }
+    </script>
+</body>
+</html>
