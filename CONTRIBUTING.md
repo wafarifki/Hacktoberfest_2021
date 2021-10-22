@@ -23,6 +23,7 @@ Don't forget put your name
 - adrenal29 Mohit
 - Mayank Kumar
 - Suyog Vinod Chaudhari
+- DEEPAMJYOTI SAHOO
 - Chayan Debbarma
 - Andika Tulus Pangestu
 - Saif Kholid
@@ -120,8 +121,8 @@ Don't forget put your name
 - Dzaki Afif
 - Naufal Saidhus Syuhur
 - Roshan Sharma
-- Mritunjay Kumar
 - aster-max
+- Mritunjay Kumar
 - Fajar Rian Setyawan
 - gemaekashantiputri
 - xvbnm48
@@ -165,5 +166,3 @@ Don't forget put your name
 - whoisraa
 - ps dev
 - skaronite(sarvagya rastogi)
-
-
