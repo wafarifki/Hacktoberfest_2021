@@ -166,5 +166,6 @@ Don't forget put your name
 - whoisraa
 - Christoffel Kweknoto
 - ps dev
+- Prateek Garg
 - Vincent Vitalis
 - skaronite(sarvagya rastogi)
