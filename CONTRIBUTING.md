@@ -120,8 +120,8 @@ Don't forget put your name
 - Dzaki Afif
 - Naufal Saidhus Syuhur
 - Roshan Sharma
-- Mritunjay Kumar
 - aster-max
+- Mritunjay Kumar
 - Fajar Rian Setyawan
 - gemaekashantiputri
 - xvbnm48
@@ -164,6 +164,3 @@ Don't forget put your name
 - Abil Fida D
 - whoisraa
 - ps dev
-
-
-
