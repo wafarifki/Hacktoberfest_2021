@@ -2,8 +2,8 @@
 int main()
 {
     int ch;
-    float l,b,r,area;
-    printf("Select the shape you need to find the area of: \n1: Square\n2: Rectangle\n3: Circle\n4: Triangle\n");
+    float l,b,r,area,l2;
+    printf("Select the shape you need to find the area of: \n1: Square\n2: Rectangle\n3: Circle\n4: Triangle\n5: Trapezium\n");
     printf("Enter number: ");
     scanf("%d",&ch);
     
@@ -40,8 +40,19 @@ int main()
            	area=(l*b)/2;
            	printf("Area = %.2f\n",area);
 		break;
-            
-  		default:
+	
+	case 5:
+		printf("Enter length of the first base of trapezium: ");
+           	scanf("%f",&l);
+		printf("Enter length of the second base of trapezium: ");
+           	scanf("%f",&l2);
+           	printf("Enter height of the trapezium: ");
+           	scanf("%f",&b);
+		area={l+l2}*h/2;
+		printf("Area = %.2f\n",area);
+		break;
+		
+  	default:
            printf("Invalid Input");
     }
     return 0;
