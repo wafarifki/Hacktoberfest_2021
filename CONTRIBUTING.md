@@ -173,3 +173,4 @@ Don't forget put your name
 - skaronite(sarvagya rastogi)
 - Yusnan Adi Kusuma (yusnanadiK)
 - Muhammad Reza Dwiputra
+- Afrizal F.A
