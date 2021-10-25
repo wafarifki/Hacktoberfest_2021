@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Fjalla+One&family=Ubuntu:wght@500&display=swap");
+      * {
+        margin: 0px;
+        padding: 0px;
+      }
+      .navbar {
+        background-color: rgb(235, 231, 19);
+        display: flex;
+        flex-direction: row;
+      }
+      .lists {
+        list-style: none;
+        display: flex;
+      }
+      .right {
+        display: flex;
+        align-self: center;
+        justify-content: start;
+        width: 50%;
+        margin-left: 30px;
+      }
+      .para {
+        text-align: center;
+        font-weight: bold;
+        font-size: 20px;
+        margin-left: 20px;
+
+        font-family: "Ubuntu", sans-serif;
+      }
+      .lists a {
+        text-decoration: none;
+        margin: 10px;
+        padding: 5px 15px;
+        color: black;
+        font-size: 18px;
+
+        font-family: "Ubuntu", sans-serif;
+      }
+      .ul {
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+      }
+      .lists a:hover {
+        background-color: red;
+        border-radius: 10px;
+        color: white;
+      }
+      .left {
+        width: 50%;
+        margin-right: 30px;
+      }
+    </style>
+  </head>
+  <body>
+    <nav class="navbar">
+      <div class="right">
+        <p class="para">Demo</p>
+      </div>
+      <div class="left">
+        <ul class="ul">
+          <li class="lists">
+            <a href="">Home</a>
+          </li>
+          <li class="lists">
+            <a href="https://google.com/">About</a>
+          </li>
+          <li class="lists">
+            <a href="">Contact</a>
+          </li>
+          <li class="lists">
+            <a href="">Services</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </body>
+</html>

@@ -1,42 +1,19 @@
 #include<iostream>
 using namespace std;
-void insertionsort(int arr[],int n)
-{
-    int i;
-    for(i=0;i<n;i++)                           
-    {
-        int ele=arr[i];
-         for(int j=0;j<i;j++)                          
-         {
-            if(arr[j]>ele)
-            {     int k=i;
-                  while(k>j)
-                  {
-                      arr[k]=arr[k-1];
-                      k--;
-                  }
-                  arr[k]=ele;
-                break;
-            }   
-         } 
-       
+
+int fib(int n) {
+        if(n==0)
+            return 0;
+        if(n==1)
+            return 1;
+        int fi=fib(n-1)+fib(n-2);
+        return fi;
     }
-}
 int main()
 {
-    int n,i;                                                 
-    cout<<"enter number of elements\n ";
+    int n;
+    cout<<"Enter number"<<endl;
     cin>>n;
-    int a[n];
-    for(i=0;i<n;i++)
-    {
-       cin>>a[i]; 
-    }
-    insertionsort(a,n);
-    cout<<endl;
-    for(i=0;i<n;i++)
-    {
-       cout<<a[i]<<" "; 
-    }
+    cout<<n<<"th"<<" Fibonacci number is "<<fib(n);
     return 0;
 }

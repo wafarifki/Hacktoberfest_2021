@@ -1,0 +1,16 @@
+# Function to convert decimal number
+# to binary using recursion
+def DecimalToBinary(number):
+     
+    if num >= 1:
+        DecimalToBinary(number // 2)
+    print(number % 2, end = '')
+ 
+# Driver Code
+if __name__ == '__main__':
+     
+    # decimal value
+    dec_val = int input(())
+     
+    # Calling function
+    DecimalToBinary(dec_val)
