@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Selamat Datang Di Hacktoberfest 2021 Repositori
 
-You can use the [editor on GitHub](https://github.com/wafarifki/Hacktoberfest_2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Image](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you looking for your first contribution, we are here to help. Just create a simple program using any language you like in our folder which will be counted as your first PR
 
-### Markdown
+Step By Step:
+- star and fork this repo
+- build your simple program using any language you like in our folder and give name your simple program with your username
+- don't forget to add your name in CONTRIBUTING.md
+- do pull request
+- done
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Thank you for participate with this repo. let's connect with me by following me in github.
 
-```markdown
-Syntax highlighted code block
+## Terjemahan Indonesia
+Jika Anda mencari kontribusi pertama Anda, kami di sini untuk membantu. Cukup buat program sederhana menggunakan bahasa apa pun yang Anda suka di folder yang kami sediakan. akan dihitung sebagai PR pertama Anda
 
-# Header 1
-## Header 2
-### Header 3
+langkah-langkah:
+- bintangi dan fork repo ini
+- buat program sederhana Anda menggunakan bahasa apa pun yang Anda suka di folder yang telah kami sediakan dan beri nama program sederhana Anda dengan nama pengguna Anda
+- jangan lupa tambahkan nama Anda di CONTRIBUTING.md
+- lakukan pull request
+- selesai
 
-- Bulleted
-- List
+Terima kasih telah berpartisipasi dengan repo ini. mari terhubung dengan saya dengan mengikuti saya di github.
 
-1. Numbered
-2. List
+## HINDI
 
-**Bold** and _Italic_ and `Code` text
+यदि आप अपना पहला योगदान ढूंढ रहे हैं, तो हम सहायता के लिए यहां हैं। हमारे फोल्डर में अपनी पसंद की किसी भी भाषा का उपयोग करके बस एक सरल प्रोग्राम बनाएं जिसे आपके पहले पीआर के रूप में गिना जाएगा
 
-[Link](url) and ![Image](src)
-```
+क्रमशः:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+स्टार और कांटा इस रेपो
+हमारे फ़ोल्डर में अपनी पसंद की किसी भी भाषा का उपयोग करके अपना सरल प्रोग्राम बनाएं और अपने उपयोगकर्ता नाम के साथ अपने सरल प्रोग्राम को नाम दें
+CONTRIBUTING.md . में अपना नाम जोड़ना न भूलेंपुल अनुरोध करें
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wafarifki/Hacktoberfest_2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+इस रेपो में भाग लेने के लिए धन्यवाद। आइए जीथब में मेरे पीछे चलकर मेरे साथ जुड़ें।
