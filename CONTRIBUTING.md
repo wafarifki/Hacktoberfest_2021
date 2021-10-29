@@ -33,6 +33,7 @@ Don't forget put your name
 - anshuman
 - yash hax
 - Denny Sinaga
+- Aniket Mondal
 - Muhammad Nur Faqiih
 - Saif Kholid
 - Aneesh
@@ -173,4 +174,14 @@ Don't forget put your name
 - skaronite(sarvagya rastogi)
 - Yusnan Adi Kusuma (yusnanadiK)
 - Muhammad Reza Dwiputra
+- Afrizal F.A
+- Muhammad Nauval Faiq Khilmi
+- Foresta
+- Soham Dey Sarkar
+- Ritik Shrestha
+- Ritchie P
+- Victor Luque
+- Fajar M Al-Hijri
+- Shubham Dubey
 - Bimal Subedi
+

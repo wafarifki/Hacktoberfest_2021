@@ -1,0 +1,40 @@
+class Solution:
+    def longestValidParentheses(self, s: str) -> int:
+        parenth_stack = []
+        stack_size = 0
+        
+    ### finding valid intervals
+    
+        for i in range(len(s)):
+            if s[i] == "(":
+                parenth_stack.append(s[i])
+                stack_size += 1
+            else:
+                if stack_size > 0:
+                    counts = 0
+                    while True:
+                        current_val = parenth_stack.pop()
+                        if str(current_val).isdigit():
+                            counts += current_val
+                        else:
+                            parenth_stack.append(counts+2)
+                            stack_size -= 1
+                            break
+                else:
+                    parenth_stack.append('-')
+                    stack_size = 0
+                    
+        ### summing the contigous valid intervals
+        max_val = 0
+        current_val = 0
+        for i in range(len(parenth_stack)):
+            if str(parenth_stack[i]).isdigit():
+                current_val += parenth_stack[i]
+            else:
+                max_val = max(max_val, current_val)
+                current_val = 0
+        
+        max_val = max(max_val, current_val)
+
+        return max_val
+                       
