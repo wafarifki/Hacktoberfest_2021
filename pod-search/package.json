@@ -1,0 +1,39 @@
+{
+  "name": "pod-search",
+  "version": "0.0.0",
+  "server": false,
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "serve": "turbo devserver",
+    "test": "",
+    "build": "npm run clean && cross-env NODE_ENV=production webpack -p",
+    "postinstall": "turbo postinstall",
+    "clean": "rimraf ./public/dist",
+    "dev": "webpack --mode development -w"
+  },
+  "dependencies": {
+    "axios": "^0.22.0",
+    "cross-env": "^5.1.4",
+    "express": "^4.17.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "turbo360": "^1.8.69",
+    "vertex360": "^0.30.39",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "nodemon": "^2.0.2",
+    "rimraf": "^2.6.2",
+    "uglifyjs-webpack-plugin": "^1.2.2",
+    "webpack": "^4.1.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "format": "vertex"
+}
