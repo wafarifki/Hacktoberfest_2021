@@ -1,0 +1,11 @@
+{
+  "name": "squareimit",
+  "version": "1.0.0",
+  "description": "LeftRotation of Array in js",
+  "main": "LeftRotate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sideeq Abdwaheed",
+  "license": "ISC"
+}
