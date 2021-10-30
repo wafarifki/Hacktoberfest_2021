@@ -1,8 +1,8 @@
 Don't forget put your name
 
+- Wafa Rifqi Anafin
 - Rathod Vinil
 - Rishika Kumar
-- Wafa Rifqi Anafin
 - Naman Jain
 - Mutia Zahra
 - Rithika Hebbar
@@ -183,5 +183,5 @@ Don't forget put your name
 - Victor Luque
 - Fajar M Al-Hijri
 - Shubham Dubey
+- SnorlaxZeroOne
 - Bimal Subedi
-
