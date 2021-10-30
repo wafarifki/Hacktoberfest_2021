@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sqrt</title>
+</head>
+<body>
+  Number: <input type="number" id="number">
+  <button id="getAns">Get Square</button>
+  <button id="getAnsQr">Get Square root</button>
+  <p id="ans"></p>
+
+  <script>
+    const number = document.getElementById('number');
+    const ans = document.getElementById('ans');
+    const getAns = document.getElementById('getAns');
+    const getAnsQr = document.getElementById('getAnsQr');
+
+    getAns.addEventListener('click', () => {
+      ans.innerText = number.value * number.value;
+    }); 
+
+    getAnsQr.addEventListener('click', () => {
+      ans.innerText = Math.sqrt(number.value);
+    });
+    </script>
+</body>
+</html>
