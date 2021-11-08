@@ -186,3 +186,4 @@ Don't forget put your name
 - SnorlaxZeroOne
 - Bimal Subedi
 - Aniket Rochwani
+- JJ OREKI
